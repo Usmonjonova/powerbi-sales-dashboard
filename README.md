@@ -13,7 +13,7 @@ This dashboard helps stakeholders quickly identify trends, top-performing produc
 
 * Source: Sample sales dataset
 * Rows: ~58,000
-* Columns:
+* Tbales and Columns:
 * Sales Table: SalesOrderNumber, OrderDate,	ProductKey,	ResellerKey,	EmployeeKey,	SalesTerritoryKey,	Quantity,	Unit Price,	Sales	Cost
 * Products Table: ProductKey,	Product,	Standard Cost,	Color,	Subcategory,	Category,	Background Color, Format,	Font, Color Format
 * Regions Table: SalesTerritoryKey,	Region,	Country,	Group
@@ -63,7 +63,7 @@ This dashboard helps stakeholders quickly identify trends, top-performing produc
 
 ### Sales Analysis
 
-![Sales](screenshots/sales_analysis.png)
+![Sales](screenshots/salesperson_analysis.png)
 
 ### Product Insights
 
@@ -92,7 +92,7 @@ This dashboard enables faster, data-driven decision-making by providing a clear 
 
 ---
 
-## ⭐ Ziyoda
+## ⭐ Author
 
-Your Name
+Ziyoda
 Aspiring Data Analyst
